@@ -29,3 +29,4 @@ const graphic = {
 }
 const {some:subtitle, bookname} = graphic;
 console.log(subtitle);//키값이 겹칠떄 새로운 키값을 넣는법
+
